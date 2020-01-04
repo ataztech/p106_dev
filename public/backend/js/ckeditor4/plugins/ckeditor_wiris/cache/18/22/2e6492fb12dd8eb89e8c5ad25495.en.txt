@@ -1,0 +1,1 @@
+{"result":{"text":"bold B with bold rightwards arrow on top"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"10 to the power of 22 10 to the power of 22"},"status":"ok"}

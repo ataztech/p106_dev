@@ -1,0 +1,32 @@
+@media (max-width : 1024px){
+}
+@media (max-width : 767px){
+    .which_class, .purpose_class, .create_sylbs{
+        width: 100%;
+    }
+    .login-page {
+	    width: 81%;
+	    float: right;
+	}
+	.modal-dialog {
+	    margin: 10px;
+	    width: 88% !important;
+	}
+	#login .modal-header h2{
+		margin: 0;
+		font-size: 22px;
+	}
+	.login-page .form{
+		padding: 5px;
+	}
+	.login_cartoon {
+	    width: 50px;
+	}
+	.responsive-menu {
+	    padding: 7px 12px;
+	}
+	.banner_left {
+	    padding: 10px;
+	    margin: 0;
+	}
+}

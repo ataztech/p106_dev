@@ -1,0 +1,1 @@
+{"result":{"text":"greater than straight C equals straight O"},"status":"ok"}

@@ -1,0 +1,113 @@
+@media (max-width : 1024px){
+}
+@media (max-width : 767px){
+    .which_class, .purpose_class, .create_sylbs{
+        width: 100%;
+    }
+    .login-page {
+	    width: 81%;
+	    float: right;
+	}
+	.modal-dialog {
+	    margin: 10px;
+	    width: 95% !important;
+	}
+	#login .modal-header h2{
+		margin: 0;
+		font-size: 22px;
+	}
+	.login-page .form{
+		padding: 5px;
+	}
+	.login_cartoon {
+	    width: 50px;
+	}
+	.responsive-menu {
+	    padding: 7px 12px;
+	}
+	.banner_left {
+	    padding: 0;
+	    margin: 0;
+	}
+	.banner_left h1 {
+	    font-size: 19px;
+	    line-height: 27px;
+	}
+	.phone-list {
+	    width: 100%;
+	}
+	.pricing-grid1, .pricing-grid2, .pricing-grid3 {
+	    width: 100%;
+	    margin: 0 0 10px;
+	}
+	.home_para {
+	    width: 100%;
+	    margin: 0 auto 18px;
+	}
+	.pricing_sec {
+	    padding: 25px 0;
+	}
+	.home_head{
+		font-size: 24px;
+		margin: 0 0 12px;
+	}
+	.learn_inner {
+	    padding: 15px 10px;
+	    margin: 15px 0 0;
+	}
+	.featr_left .featur_icon:before, .featr_left .featur_icon:after, .featr_right .featur_icon:before, .featr_right .featur_icon:after, .featr_right:after{
+		display: none;
+	}
+	.featr_block h4 {
+	    text-align: center;
+	}
+	.featr_left, .featr_right {
+	    padding: 10px;
+	    border: 1px solid #e6e5e5;
+	    margin: 0 0 10px;
+	    box-shadow: 0 0 10px #e6e6e6;
+	}
+	.featr_block p {
+	    text-align: center;
+	}
+	.icon_margin {
+	    margin: 0 0 50px;
+	    text-align: center;
+	}
+	.featur_icon{
+		text-align: center;
+	}
+	.featur_icon {
+	    margin: 25px 0;
+	}
+	.icon_margin {
+	    margin: 0 0 25px;
+	}
+	.clases_outer .media {
+	    padding: 10px;
+	}
+	.clases_outer .media-body{
+		display: inline-block;
+		width: auto;
+	}
+	.classes_btns .btn10 {
+	    width: 56%;
+	}
+	.class_12 .classes_btns {
+	    text-align: left;
+	}
+	.clases_outer .media-right img{
+		width: 100%;
+	}
+	.pricing-grids .pricing-grid2{
+		width: 100% !important;
+	}
+	.left_sec {
+		position: absolute;
+		left: -200px;
+		height: 100%;
+	}
+	.main_dash_right {
+	    padding: 20% 6% 0 6%;
+	}
+}
